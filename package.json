@@ -1,0 +1,25 @@
+{
+  "name": "HX",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "core-js": "^2.6.5",
+    "element-ui": "^2.15.0",
+    "three": "^0.125.2",
+    "three-obj-mtl-loader": "^1.0.3",
+    "three-orbit-controls": "^82.1.0",
+    "three-stats": "^1.0.1",
+    "three-trackballcontrols": "^0.9.0",
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.8.0",
+    "@vue/cli-service": "^3.8.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
